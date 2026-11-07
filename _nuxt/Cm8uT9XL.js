@@ -1,0 +1,1 @@
+import{k as e,mt as t,v as n}from"./Dfyab7Rd.js";import{t as r}from"./DGP0j59C.js";var i=e({__name:`index`,setup(e){return(e,i)=>{let a=r;return t(),n(a,{locale:`en`})}}});export{i as default};
